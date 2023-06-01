@@ -81,6 +81,9 @@ As of version 1.1.0, Favorites is compatible with multisite installations. By de
 
 == Changelog ==
 
+= 2.3.4 =
+* Japanese translation added (thanks to Naoya Komatsu)
+
 = 2.3.3 =
 * Security update.
 
